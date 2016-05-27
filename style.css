@@ -10,7 +10,7 @@ body {
 .menu {
   background: #202024 url('http://i1262.photobucket.com/albums/ii608/AltronHD/HD%20Website_zpsk0mr8ivh.jpg') repeat left top;
   left: -285px;  /* start off behind the scenes */
-  height: 100%;
+  height: 500%;
   position: fixed;
   width: 285px;
 }
