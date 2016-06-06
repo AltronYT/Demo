@@ -3,38 +3,19 @@
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400;300' rel='stylesheet' type='text/css'>
     <link href='style.css' rel='stylesheet'>
+    <link rel="stylesheet" type="text/css" href="animate.css" />
+<script src="viewportchecker.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> <!-- We also need jQuery -->
     <title>Team Cubed Website</title>
-    <script>
-(function() {
-   'use strict';
-
-   var dbh,sto,num=50,temp=0,scrolldelay=100;
-
-function init(){ 
-    dbh=document.body.offsetHeight;
-    pageScroll();
- }
-
-function pageScroll() {
-    window.scrollBy(0,num);
-    temp+=num;
-if((temp>=dbh)||(temp<=0)){
-    num=-num;
- }
-   sto=setTimeout(function(){pageScroll();},scrolldelay);
- }
-   window.addEventListener?
-   window.addEventListener('load',init,false):
-   window.attachEvent('onload',init);
-})();
-</script>
 
   </head>
   <body>
-    <div id="container">
- <h2>This is the Top</h2>
- <h2>This is the Bottom</h2>
+  
+  <div class="container">
+    <div class="post"> <h3>Welcome to team cubed website!</h3> </div>
+    <div class="post"> <h4>Thanks for visiting!</h4> </div>
 </div>
+
     <div class="menu">
       
       <!-- Menu icon -->
