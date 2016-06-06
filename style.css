@@ -70,3 +70,13 @@ body {
 .icon-menu i {
   margin-right: 5px;
 }
+
+.top {
+    border: 1px solid black;
+    height: 3000px;
+}
+
+/*Bottom & Top */
+.bottom {
+    border: 1px solid red;
+}
