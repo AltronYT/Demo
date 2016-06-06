@@ -71,12 +71,12 @@ body {
   margin-right: 5px;
 }
 
+/*Bottom & Top */
 .top {
     border: 1px solid black;
     height: 3000px;
 }
 
-/*Bottom & Top */
 .bottom {
     border: 1px solid red;
 }
