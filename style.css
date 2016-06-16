@@ -8,7 +8,7 @@ body {
 
 /* Initial menu */
 .menu {
-  background: #202024 url('http://i1262.photobucket.com/albums/ii608/AltronHD/TeamCubed_zpslhsofmnw.png') repeat left top;
+  background: #202024 url('http://i1262.photobucket.com/albums/ii608/AltronHD/Untitled-1_zps6l9kxgb4.png') repeat left top;
   left: -285px;  /* start off behind the scenes */
   height: 500%;
   position: fixed;
@@ -18,7 +18,7 @@ body {
 /* Basic styling */
 
 .jumbotron {
-  background-image: url('http://i1262.photobucket.com/albums/ii608/AltronHD/Selfie_zpsetv6xdnu.png'); 
+  background-image: url('http://i1262.photobucket.com/albums/ii608/AltronHD/TeamCubed_zpslhsofmnw.png'); 
   height: 100%;
   -webkit-background-size: cover;
      -moz-background-size: cover;
